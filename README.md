@@ -60,6 +60,61 @@ Execute the compiled program:
 
 > **Note:** If your source file has a different name (for example, `main.c`), replace `logic_gates.c` with your actual file name in the commands above.
 
+## 📊 Truth Tables & Examples
+
+### AND Gate
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 | 0      |
+| 0 | 1 | 0      |
+| 1 | 0 | 0      |
+| 1 | 1 | 1      |
+
+### OR Gate
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 | 0      |
+| 0 | 1 | 1      |
+| 1 | 0 | 1      |
+| 1 | 1 | 1      |
+
+### NOT Gate
+| A | Output |
+|---|--------|
+| 0 | 1      |
+| 1 | 0      |
+
+### NAND Gate
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 | 1      |
+| 0 | 1 | 1      |
+| 1 | 0 | 1      |
+| 1 | 1 | 0      |
+
+### NOR Gate
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 | 1      |
+| 0 | 1 | 0      |
+| 1 | 0 | 0      |
+| 1 | 1 | 0      |
+
+### XOR Gate
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 | 0      |
+| 0 | 1 | 1      |
+| 1 | 0 | 1      |
+| 1 | 1 | 0      |
+
+### XNOR Gate
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 | 1      |
+| 0 | 1 | 0      |
+| 1 | 0 | 0      |
+| 1 | 1 | 1      |
 
 ## 📄 License
 This project is licensed under the MIT License.

@@ -26,7 +26,7 @@ A collection of C programs demonstrating the implementation and operation of bas
 ## 🎯 Purpose
 This project was created to practice C programming and understand the fundamentals of digital logic design.
 
-##🚀 How to Compile and Run
+## 🚀 How to Compile and Run
 
 This repository contains separate C programs for each basic digital logic gate. Each file can be compiled and executed independently.
 

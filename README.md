@@ -26,37 +26,42 @@ A collection of C programs demonstrating the implementation and operation of bas
 ## 🎯 Purpose
 This project was created to practice C programming and understand the fundamentals of digital logic design.
 
-## 🚀 How to Run
+🚀 How to Compile and Run
 
-Follow these simple steps to compile and execute the program on your system:
+This repository contains separate C programs for each basic digital logic gate. Each file can be compiled and executed independently.
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/devaharshith/logic-gates-in-c.git
 cd logic-gates-in-c
-```
 
-### 2️⃣ Compile the Program
+2️⃣ Compile the Desired Logic Gate Program
 
-Use the GCC compiler to build the source code:
+Use the GCC compiler to compile the required source file. For example, to compile the AND gate program:
 
-```bash
-gcc logic_gates.c -o logic_gates
-```
+gcc and_gate.c -o and_gate
 
-### 3️⃣ Run the Executable
+Similarly, you can compile any of the other logic gate programs:
 
-Execute the compiled program:
+- "or_gate.c"
+- "not_gate.c"
+- "nand_gate.c"
+- "nor_gate.c"
+- "xor_gate.c"
+- "xnor_gate.c"
 
-```bash
-./logic_gates
-```
+3️⃣ Run the Program
 
-### 📋 Requirements
+After compilation, execute the generated file:
 
-* A C compiler (GCC recommended)
-* Any operating system that supports C compilation (Windows, Linux, or macOS)
+./and_gate
+
+Replace "and_gate" with the name of the logic gate program you want to run.
+
+📋 Requirements
+
+- GCC Compiler (or any standard C compiler)
+- Windows, Linux, or macOS environment with C compilation support
 
 > **Note:** If your source file has a different name (for example, `main.c`), replace `logic_gates.c` with your actual file name in the commands above.
 

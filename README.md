@@ -116,5 +116,26 @@ Execute the compiled program:
 | 1 | 0 | 0      |
 | 1 | 1 | 1      |
 
+## 📚 References
+
+The concepts and implementations in this project are based on standard digital electronics and C programming resources.
+
+- GeeksforGeeks – Digital Electronics and Logic Design Tutorials: https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/
+- GeeksforGeeks – Logic Gates: https://www.geeksforgeeks.org/logic-gates/
+- GeeksforGeeks – Introduction to Logic Gates: https://www.geeksforgeeks.org/digital-logic/introduction-of-logic-gates/
+- SparkFun Learn – Digital Logic: https://learn.sparkfun.com/tutorials/digital-logic
+- Gate Lab – Digital Logic from First Principles: https://lgsim.io/learn.html
+
+## 📖 Further Reading
+
+- Boolean Algebra and Logic Gates
+- Digital Logic Design
+- Combinational Logic Circuits
+- Truth Tables and Binary Operations
+
+## 🙏 Acknowledgments
+
+This project was created as part of my learning journey in C programming and Digital Electronics. Thanks to the open educational resources and communities that make learning accessible to everyone.
+
 ## 📄 License
 This project is licensed under the MIT License.

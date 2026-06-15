@@ -10,6 +10,15 @@ A collection of C programs demonstrating the implementation and operation of bas
 - NOR Gate
 - XOR Gate
 - XNOR Gate
+  
+- ## 📂 Project Structure
+- and_gate.c   - AND gate implementation
+- or_gate.c    - OR gate implementation
+- not_gate.c   - NOT gate implementation
+- nand_gate.c  - NAND gate implementation
+- nor_gate.c   - NOR gate implementation
+- xor_gate.c   - XOR gate implementation
+- xnor_gate.c  - XNOR gate implementatio
 
 ## 💻 Language Used
 - C Programming

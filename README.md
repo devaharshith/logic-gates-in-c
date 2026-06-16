@@ -58,7 +58,7 @@ After compilation, execute the generated file:
 
 Replace "and_gate" with the name of the logic gate program you want to run.
 
-📋 Requirements
+## 📋 Requirements
 
 - GCC Compiler (or any standard C compiler)
 - Windows, Linux, or macOS environment with C compilation support
